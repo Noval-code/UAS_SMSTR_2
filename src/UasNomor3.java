@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class NOMOR3 {
+public class UasNomor3 {
     public static void main(String[] args) throws IOException {
 
 //        REQUEST
